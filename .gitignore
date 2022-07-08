@@ -1,4 +1,4 @@
-1.txt
-2.txt
-# 3.txt
-# hey.js
+#all files wirh extension .txt are ignored
+*txt
+!4.txt
+hey.js
